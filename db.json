@@ -1,0 +1,17 @@
+{
+    "student": [
+        {
+            "name" : "rojjah temitope ",
+            "email" : "rojjah@gmail.com",
+            "phone" : "911419666",
+            "id" : 1
+        },
+        {
+            "name" : "nzube wisdom ",
+            "email" : "nsb@gmail.com",
+            "phone" : "911419666",
+            "id" : 2
+        }
+                
+    ]
+}
