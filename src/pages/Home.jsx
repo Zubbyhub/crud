@@ -1,4 +1,5 @@
 import React, { useEffect, useState} from 'react'
+import { Link } from 'react-router-dom'
 
 const Home = () => {
     // declaring state variables
@@ -16,9 +17,9 @@ const Home = () => {
     <div className='container p-5'>
       <h1 className='text-center'>student listing</h1>
       <div className='d-flex justify-content-end'>
-        <button className="btn btn-success">
+        <Link to='/create' className="btn btn-success">
             add student
-            </button>
+            </Link>
       </div>
       <table class="table">
   <thead>

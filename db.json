@@ -1,17 +1,52 @@
 {
-    "student": [
-        {
-            "name" : "rojjah temitope ",
-            "email" : "rojjah@gmail.com",
-            "phone" : "911419666",
-            "id" : 1
-        },
-        {
-            "name" : "nzube wisdom ",
-            "email" : "nsb@gmail.com",
-            "phone" : "911419666",
-            "id" : 2
-        }
-                
-    ]
+  "student": [
+    {
+      "name": "rojjah temitope ",
+      "email": "rojjah@gmail.com",
+      "phone": "911419666",
+      "id": "1"
+    },
+    {
+      "name": "nzube wisdom ",
+      "email": "nsb@gmail.com",
+      "phone": "916419666",
+      "id": "2"
+    },
+    {
+      "name": "chuks smile ",
+      "email": "smile@gmail.com",
+      "phone": "000419666",
+      "id": "3"
+    },
+    {
+      "name": "bose cat ",
+      "email": "nsb@gmail.com",
+      "phone": "915419666",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "rojjah",
+      "email": "rojjahloc7@gmail.com",
+      "phone": "234565432"
+    },
+    {
+      "id": "6",
+      "name": "zubby wisdom",
+      "email": "nfr905@gmail.com",
+      "phone": "08166814470"
+    },
+    {
+      "id": "7",
+      "name": "zubby wisdom",
+      "email": "ndom905@gmail.com",
+      "phone": "08166814470"
+    },
+    {
+      "id": "8",
+      "name": "chinedu foreign",
+      "email": "nzubechukwuwisdom905@gmail.com",
+      "phone": "23567654356"
+    }
+  ]
 }
